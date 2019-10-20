@@ -1,0 +1,13 @@
+.container-fluid {
+    width: 100%;
+    padding-right: 0px;
+    padding-left: 0px;
+}
+
+.carousel-indicators li{
+  list-style-type: circle;
+  width: 70px;
+  height: 5px;
+  opacity: .2;
+  margin: -1px;
+}
