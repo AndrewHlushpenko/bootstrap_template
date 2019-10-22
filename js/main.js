@@ -1,3 +1,3 @@
-$('.carousel').carousel({
-  interval:3000
-})
+baguetteBox.run('.cards-gallery', {
+  animation: 'fadeIn'
+ });
